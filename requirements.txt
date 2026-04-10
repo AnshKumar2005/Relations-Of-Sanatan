@@ -1,0 +1,6 @@
+gradio
+networkx
+matplotlib
+pillow
+rdflib
+python-dotenv
